@@ -10,7 +10,8 @@ let app = {
    },
 
    init: function() {
-      app.videoSearch("iPhone");
+      //app.videoSearch("iPhone");
+      app.youtubeSearch("iPhone X");
    },
    //<iframe className="embed-responsive-item" src={url}> </iframe>
    getVideoList: function(videos) {
